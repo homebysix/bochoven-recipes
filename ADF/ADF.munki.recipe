@@ -12,8 +12,6 @@
 		<string>ADF</string>
 		<key>BASEVERSION</key>
 		<string>2017</string>
-		<key>DOWNLOAD_URL</key>
-		<string>https://www.scm.com/support/downloads/</string>
 		<key>MUNKI_REPO_SUBDIR</key>
 		<string>scm/adf/%BASENAME%%BASEVERSION%</string>
 		<key>pkginfo</key>
